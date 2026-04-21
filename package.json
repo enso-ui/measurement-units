@@ -1,7 +1,7 @@
 {
   "name": "@enso-ui/measurement-units",
   "version": "5.2.3",
-  "description": "Basic measurement units package",
+  "description": "Measurement unit administration pages for Enso UI",
   "main": "src/bulma/pages/administration/measurementUnits/Index.vue",
   "repository": {
     "type": "git",
